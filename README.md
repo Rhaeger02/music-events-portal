@@ -1,16 +1,41 @@
-# React + Vite
+# MusicEvents Portal - Music Events Platform
+A modern web application built with React and Vite for discovering and exploring music events. Includes intelligent recommendation system, animated interface, and mocked API for demonstration.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Main Features
+🎨 Professional Interface
+100% responsive design (mobile, tablet, desktop)
 
-Currently, two official plugins are available:
+Smooth animations with GSAP
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Automatic light/dark mode
 
-## React Compiler
+Micro-interactions on every element
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⚡ Technologies
+React 18 with Custom Hooks
 
-## Expanding the ESLint configuration
+Vite for ultra-fast development
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+GSAP for advanced animations
+
+CSS Modules for scalable styles
+
+API Context for state management
+
+🤖 Intelligent System
+Personalized recommendations based on preferences
+
+Predictive filtering in real-time
+
+Semantic search intelligence
+
+Integrated assistant chatbot
+
+🎵 Music Content
+Event catalog with 6 music categories
+
+Detailed artist profiles
+
+Interactive multimedia gallery
+
+Favorites and reminders system 
